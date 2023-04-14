@@ -1,0 +1,28 @@
+{
+  "name": "e-commerce-api",
+  "version": "1.0.0",
+  "description": "My RESTFUL API web application",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "pratik",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "^0.0.3",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-ejs-layouts": "^2.5.0",
+    "install": "^0.13.0",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^5.13.17",
+    "nodemon": "^2.0.20",
+    "npm": "^9.6.4"
+  }
+}
