@@ -1,5 +1,12 @@
 ## ReatFulApi ## 
  * this is server side APi using node js
+ 
+ screenshot ![Screenshot (419)](https://user-images.githubusercontent.com/82867372/232046181-5c9f77f0-ec55-4c20-8083-3ae50c6091a1.png)
+ 
+ screenshot 
+ ![Screenshot (418)](https://user-images.githubusercontent.com/82867372/232046334-02a401db-52db-46ab-b6a8-af6758607436.png)
+
+
 
  # technologies use
 --nodejs --express js --mongoose DB
