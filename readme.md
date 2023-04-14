@@ -9,7 +9,10 @@
 
 
  # technologies use
---nodejs --express js --mongoose DB
+--nodejs --express js --mongoose DB--GitHub
+
+# library's
+ --body-parser--nodemon--cors--
 
 ## Resources 
 # POST HTTP request ;
